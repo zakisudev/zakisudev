@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@zakisu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zakisu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/zekaria-mohammed-6a74ab70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/zekaria-mohammed-6a74ab70" height="30" width="40" /></a>
-<a href="https://instagram.com/@zakisu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@zakisu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/zakisu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/zakisu" height="30" width="40" /></a>
+<a href="https://instagram.com/@zekaria_mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@zakisu" height="30" width="40" /></a>
 <a href="https://www.behance.net/zakisu mhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zakisu mhm" height="30" width="40" /></a>
 <a href="https://medium.com/@zakihd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zakihd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@zakistuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@zakistuff" height="30" width="40" /></a>
