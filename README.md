@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on CMS(Clinic Management System) listed [Portfolio](https://www.zakisu.com)
 
-- 🌱 I’m currently learning **NextJS, Typescript, ReactNative, AWS**
+- 🌱 I’m currently learning **AI intergrations with all industries**
 
-- 👨‍💻 All of my projects are available at [https://www.zakisu.com](https://www.zakisu.com)
+- 👨‍💻 All of my projects are available at [https://www.zakisu.com/projects](https://www.zakisu.com/projecs)
 
 - 📫 How to reach me **zakisudev@gmail.com**
 
