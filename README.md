@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.zakisu.com/projects](https://www.zakisu.com/projecs)
 
+- Please check my Resume at [https://drive.google.com/file/d/1AWOtbK0_VMT1RSjlJlLMtFF0--TrE2bg/view?usp=sharing](https://drive.google.com/file/d/1AWOtbK0_VMT1RSjlJlLMtFF0--TrE2bg/view?usp=sharing)
+
 - 📫 How to reach me **zakisudev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
